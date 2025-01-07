@@ -5,6 +5,7 @@ This code is intended for educational purposes only. I am not responsible for an
 For additional support on setting this up with the full version,
 
 please reach out to me on my new Telegram: https://t.me/ethRukia
+Telegram got terminated, please reach out to me on discord @ethRukia
 
 Note reach out with your offer
 
